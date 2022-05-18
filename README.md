@@ -28,7 +28,6 @@
 
 ## Contact Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/FineFindus" target="blank"><img align="center" src="./assets/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="https://github.com/FineFindus/FineFindus/issues/new" target="blank"><img align="center" src="./assets/github.svg" alt="" height="30" width="40" /></a>
