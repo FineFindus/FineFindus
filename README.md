@@ -1,5 +1,5 @@
 # Welcome
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+World%CD%BE;I'm+Jonathan.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+World%CD%BE;I'm+Jonathan.)
 
 ## About Me
  - Student by day, programmer by night
@@ -24,7 +24,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=FineFindus)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=FineFindus&layout=compact)
+![Languages I use](https://github-readme-stats.vercel.app/api/top-langs?username=FineFindus&layout=compact)
 
 ## Contact Me
 
