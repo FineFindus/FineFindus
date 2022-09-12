@@ -8,21 +8,24 @@
 
 ## Projects
 
-### Actively Maintained Projects
+## Actively Developed
+ - [`Eyedropper`](https://github.com/FineFindus/eyedropper) An easy-to-use color picker and formatter, built with GTK and Rust  
+
+### Maintained
 
  - [`artem`](https://github.com/FineFindus/artem) Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust 
  - [`homebrew-tap`](https://github.com/FineFindus/homebrew-tap) An easy way to install my projects using [brew](https://github.com/Homebrew/brew/)
 
 ## Used Languages and Tools
 ### Languages and Frameworks
-![Languages and Frameworks](https://skillicons.dev/icons?i=java,dart,flutter,ts,rust)
+![Languages and Frameworks](https://skillicons.dev/icons?i=rust,dart,flutter,ts,java)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,github,git,bash,linux)
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=FineFindus)
+![Stats](https://github-readme-stats.vercel.app/api?username=FineFindus)
 
 ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs?username=FineFindus&layout=compact)
 
