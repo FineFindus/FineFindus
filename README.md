@@ -9,7 +9,7 @@
 ## Projects
 
 ## Actively Developed
- - [`Eyedropper`](https://github.com/FineFindus/eyedropper) An easy-to-use color picker and formatter, built with GTK and Rust  
+ - [`Eyedropper`](https://github.com/FineFindus/eyedropper) A powerful color picker and formatter, built with GTK and Rust
 
 ### Maintained
 
