@@ -1,5 +1,4 @@
 # Welcome
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+World%CD%BE;I'm+Jonathan.)
 
 ## About Me
  - Student by day, programmer by night
