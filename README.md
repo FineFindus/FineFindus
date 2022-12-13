@@ -35,4 +35,5 @@
  <a href="https://github.com/FineFindus/FineFindus/issues/new" target="blank"><img align="center" src="./assets/github.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/FineFindus" target="blank"><img align="center" src="./assets/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="https://matrix.to/#/@finefindus:matrix.org" target="blank"><img align="center" src="./assets/matrix.svg" alt="" height="30" width="40" /></a>
+<a rel="me" href="https://mstdn.social/@FineFindus" target="blank"><img align="center" src="./assets/mastodon.svg" alt="" height="30" width="40" /></a>
 </p>
