@@ -14,6 +14,8 @@
 ### Maintained
 
  - [`artem`](https://github.com/FineFindus/artem) Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust 
+
+### Not maintained
  - [`homebrew-tap`](https://github.com/FineFindus/homebrew-tap) An easy way to install my projects using [brew](https://github.com/Homebrew/brew/)
 
 ## Used Languages and Tools
