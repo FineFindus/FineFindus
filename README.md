@@ -34,7 +34,7 @@
 ## Contact Me
 
 <p align="left">
-<a href="mailto:Finefindusgh@gmail.com" target="blank"><img align="center" src="./assets/mail.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:FineFindus@proton.me" target="blank"><img align="center" src="./assets/mail.svg" alt="" height="30" width="40" /></a>
 <a href="https://github.com/FineFindus/FineFindus/issues/new" target="blank"><img align="center" src="./assets/github.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="https://t.me/FineFindus" target="blank"><img align="center" src="./assets/telegram.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://matrix.to/#/@finefindus:matrix.org" target="blank"><img align="center" src="./assets/matrix.svg" alt="" height="30" width="40" /></a>
