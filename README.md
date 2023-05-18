@@ -10,6 +10,7 @@
 
 ## Actively Developed
  - [`Eyedropper`](https://github.com/FineFindus/eyedropper) Pick and format color, built with GTK and Rust
+ - Co-maintainer of [Metronome](https://gitlab.gnome.org/World/metronome) Keep the tempo
 
 ### Maintained
 
@@ -19,11 +20,21 @@
  - [`homebrew-tap`](https://github.com/FineFindus/homebrew-tap) An easy way to install my projects using [brew](https://github.com/Homebrew/brew/)
 
 ## Used Languages and Tools
+
 ### Languages and Frameworks
-![Languages and Frameworks](https://skillicons.dev/icons?i=rust,dart,flutter,ts,java)
+
+#### Current
+![Languages and Frameworks I currently use](https://skillicons.dev/icons?i=rust,gtk,java)
+
+#### Past
+![Languages and Frameworks I've used](https://skillicons.dev/icons?i=dart,flutter,ts)
+
+#### Future
+![Languages and Frameworks I want to work with](https://skillicons.dev/icons?i=c,activitypub)
+
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,github,git,bash,linux)
+![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,neovim,git,github,gitlab,githubactions,bash,linux)
 
 ## Stats
 
