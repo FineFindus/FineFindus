@@ -40,7 +40,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FineFindus)
 
-![Languages I use](https://github-readme-stats.vercel.app/api/top-langs?username=FineFindus&layout=compact)
+<!-- ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs?username=FineFindus&layout=compact) -->
 
 ## Contact Me
 
