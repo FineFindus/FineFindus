@@ -8,7 +8,7 @@
 
 ## Projects
 
-## Actively Developed
+### Actively Developed
  - [`Eyedropper`](https://github.com/FineFindus/eyedropper): "Pick and format color, built with GTK and Rust"
  - Co-maintainer of [Metronome](https://gitlab.gnome.org/World/metronome): "Keep the tempo"
 
