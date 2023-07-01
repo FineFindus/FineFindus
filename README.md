@@ -1,7 +1,6 @@
 # Welcome
 
 ## About Me
- - Student by day, programmer by night
  - Linux and FOSS enthusiast
  - Member of the GNOME Foundation
  - Feel free to reach out for any questions
