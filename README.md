@@ -32,14 +32,3 @@
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,neovim,git,github,gitlab,githubactions,bash,linux)
 
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=FineFindus)
-
-<!-- ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs?username=FineFindus&layout=compact) -->
-
-## Contact Me
-
-<p align="left">
-<a href="mailto:FineFindus@proton.me" target="blank"><img align="center" src="./assets/mail.svg" alt="" height="30" width="40" /></a>
-</p>
